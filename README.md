@@ -1,3 +1,5 @@
 # First-1
+Hello,
 My first git repository.
-Author:-P. S. Patankar
+(this will be my first commit through VS)
+Author:-P. S. Patankar ()
